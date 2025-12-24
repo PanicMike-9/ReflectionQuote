@@ -6,4 +6,4 @@
 - Trying out new features like
   * hamburger menu
   * Dark and light mode
-## **Note:** Simply a getting started type project, nothing more :)
+- **Note:** Simply a getting started type project, nothing more :)
